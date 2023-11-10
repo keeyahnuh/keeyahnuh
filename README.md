@@ -2,7 +2,7 @@
 
 Hello, my name is Kiana! I am currently in my fourth and final year of pursuing my B.S. in Electrical Engineering at University of California, Riverside. I have a passion for embedded systems and the general combination of hardware and software. 
 
-Outside of classwork, I love to practice my engineering skills by competeing in VexU Robotics Competitions and teaching Girls Who Code Club computer science classes to middle and high schoolers throughout the school year. Scroll down if you're interested in the many other things I do!
+Outside of classwork, I love to practice my engineering skills by competing in VexU Robotics Competitions and teaching Girls Who Code Club computer science classes to middle and high schoolers throughout the school year. Scroll down if you're interested in the many other things I do!
 
 [My Current Resume](https://drive.google.com/file/d/1vu-2aVF6iCRhFsQP1nE82ZTV3DcmbrJN/view?usp=sharing)
 
