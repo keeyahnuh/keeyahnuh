@@ -4,7 +4,7 @@ Hello, my name is Kiana! I am currently in my fourth and final year of pursuing 
 
 Outside of classwork, I love to practice my engineering skills by competing in VexU Robotics Competitions and teaching Girls Who Code Club computer science classes to middle and high schoolers throughout the school year. Scroll down if you're interested in the many other things I do!
 
-[My Current Resume](https://drive.google.com/file/d/1vu-2aVF6iCRhFsQP1nE82ZTV3DcmbrJN/view?usp=sharing)
+[My Current Resume](https://drive.google.com/file/d/1r6FuQalr5xSJEuKfUBSDdLE7M-AGUEbh/view?usp=drivesdk)
 
 ---
 ![Work-Experience](https://github.com/keeyahnuh/keeyahnuh/blob/main/work-experience.png)  
