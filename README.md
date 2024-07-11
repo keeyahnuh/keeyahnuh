@@ -12,14 +12,14 @@ Outside of classwork, I love to practice my engineering skills by competing in V
 **Mechanical Engineering Instructional Material | University of California, Riverside - Riverside, CA**  
 *Start Date: November 2023*   
 I am currently collaborating with UCR's Mechanical Engineering Department to develop instructional material for ME students to learn basic circuitry. Using Python, we are developing an interactive practice problem generator that creates circuits and automatically populates each circuit component with a random value. Based on the new values, correct answers for the problems will be stored to respond to the student if their answer is correct.
+
+**Electrical Engineering Intern | Ocampo-Esta Corporation - Vallejo, CA**  
+*July 2022 - August 2022*  
+Within this internship, I shadowed many PE's (Professional Engineers) in power systems engineering and substation design for electrical distribution and transmission. I participated in weekly cross-company meetings to discuss any design updates and progress with clients as well as developed curriculum for future electrical engineering interns to understand the basics of power transmission/distribution and the components of a substation.
   
 **Facilitator/Teacher | Girls Who Code Club - Solano County, CA**  
 *Start Date: September 2021*    
 Throughout the school year, I virtually teach middle and high school female students introductory Python. Previously, I have designed a curriculum to teach backend and frontend development with a variety of GUI (Graphical User Interface) projects using the tkinter library. Additionally, I created an embedded systems curriculum for the students to learn fundamental circuitry and programming using C with Arduino UNOs. 
-  
-**Electrical Engineering Intern | Ocampo-Esta Corporation - Vallejo, CA**  
-*July 2022 - August 2022*  
-Within this internship, I shadowed many PE's (Professional Engineers) in power systems engineering and substation design for electrical distribution and transmission. I participated in weekly cross-company meetings to discuss any design updates and progress with clients as well as developed curriculum for future electrical engineering interns to understand the basics of power transmission/distribution and the components of a substation.
 
 **Coach/Teacher | C-STEM GIRL/GIRL+ Camp - Solano County, CA**  
 *Start Date: June 2019*  
@@ -28,14 +28,19 @@ In weekly camps throughout the summer, I taught an introductory coding course of
 ---
 ![Projects](https://github.com/keeyahnuh/keeyahnuh/blob/main/projects.png)
 
+[**Marine Energy Collegiate Competition**](https://github.com/keeyahnuh/mecc24)  
+*Start Date: September 2023* 
+I worked with a team of two other Electrical Engineering students to develop a power storage and distribution system from electrical energy generated through ocean waves. I focused on developing the entire Battery Management System (BMS) through the usage of microcontrollers, relays, voltage sensors, lithium ion battery cells, and other electronic components to autonomously manage the batteries to safe specifications. Additionally, I programmed a GUI as an accessible maintenance display over the entire system. I utilized both C++ and Python programming within this project, C++ for all the electronics and Python for the GUI and serial communication.
+
+
 **DD-3 (Custom Star Wars Droid)**  
-*August 2023 - October 2023*  
+*Start Date: August 2023*  
 I designed a systematic plan of each electrical components’ integration and connections, including its power system. After planning, i executed the physical wiring and wiring management of all components.  
 *In collaboration with Jess Zarchi*
 
 **UCR VexU Robotics**  
-*January 2023 - May 2023*  
-My team and I built two robots that competed in VexU competitions for the game "Spin Up." I particularly helped in building and designing a robot that utilized a flywheel to shoot rubber frisbees into a frisbee-golf basket. Throughout competitions, I acted as a Coach of our drivers during matches, guiding the drivers on what they should do while observing the opponents' actions simultaneously. Within this season, our team qualified for the World Championship in our first regional competition by winning the Excellence Award and acheived an 18th-place finish within our division at the VexU World Championship held in Dallas, TX.  
+*Start Date: January 2023*  
+My team and I built two robots that competed in VexU competitions for the game "Spin Up" and "Over Under." During the Spin Up season, I particularly helped in building and designing a robot that utilized a flywheel to shoot rubber frisbees into a frisbee-golf basket. During the Over Under season, I focused on building the intake to possess and score triangular-balls in the designated scoring zones as well as developing custom polyurethane wheels for the drive train. Throughout competitions, I acted as a Coach of our drivers during matches, guiding the drivers on what they should do while observing the opponents' actions simultaneously. In both seasons, our team qualified for the VexU World Championship held in Dallas, Texas in our first regional competition by winning the Excellence Award, the highest judged award achievable in Vex.
 
 [**Double Microcontroller Rhythm Game**](https://github.com/keeyahnuh/Bop-Bop-Uprising)  
 *December 2022*  
