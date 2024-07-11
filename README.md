@@ -1,14 +1,13 @@
 ![Kiana-Dumdumaya](https://github.com/keeyahnuh/keeyahnuh/blob/main/kiana-dumdumaya.png)
 
-Hello, my name is Kiana! I am currently in my fourth and final year of pursuing my B.S. in Electrical Engineering at University of California, Riverside. I have a passion for embedded systems and the general combination of hardware and software. 
+Hello, my name is Kiana! I am recent graduate with a B.S. in Electrical Engineering from the University of California, Riverside. I have a passion for embedded systems and the general combination of hardware and software. 
 
 Outside of classwork, I love to practice my engineering skills by competing in VexU Robotics Competitions and teaching Girls Who Code Club computer science classes to middle and high schoolers throughout the school year. Scroll down if you're interested in the many other things I do!
 
-[My Current Resume](https://drive.google.com/file/d/19ECJH1vOZM6-SinGoRFpwzf_CM5_s_k5/view?usp=drivesdk)
+[My Current Resume](https://drive.google.com/file/d/1Ej9E-64KFzSaNW9ODSqd1ML-60M-j16Q/view?usp=sharing)
 
 ---
 ![Work-Experience](https://github.com/keeyahnuh/keeyahnuh/blob/main/work-experience.png)  
-<ins>**CURRENT:**<ins> 
   
 **Mechanical Engineering Instructional Material | University of California, Riverside - Riverside, CA**  
 *Start Date: November 2023*   
@@ -18,14 +17,12 @@ I am currently collaborating with UCR's Mechanical Engineering Department to dev
 *Start Date: September 2021*    
 Throughout the school year, I virtually teach middle and high school female students introductory Python. Previously, I have designed a curriculum to teach backend and frontend development with a variety of GUI (Graphical User Interface) projects using the tkinter library. Additionally, I created an embedded systems curriculum for the students to learn fundamental circuitry and programming using C with Arduino UNOs. 
   
-<ins>**PAST:**<ins>  
-  
 **Electrical Engineering Intern | Ocampo-Esta Corporation - Vallejo, CA**  
 *July 2022 - August 2022*  
 Within this internship, I shadowed many PE's (Professional Engineers) in power systems engineering and substation design for electrical distribution and transmission. I participated in weekly cross-company meetings to discuss any design updates and progress with clients as well as developed curriculum for future electrical engineering interns to understand the basics of power transmission/distribution and the components of a substation.
 
 **Coach/Teacher | C-STEM GIRL/GIRL+ Camp - Solano County, CA**  
-*June 2019 - July 2023*  
+*Start Date: June 2019*  
 In weekly camps throughout the summer, I taught an introductory coding course of C along with LinkBots to middle and high school female students. I developed a curriculum that integrated computer science and engineering concepts through the usage of LinkBots and Arduino through the usage of breadboards and the Arduino UNO.  
 
 ---
