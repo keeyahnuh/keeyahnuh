@@ -1,8 +1,8 @@
 ![Kiana-Dumdumaya](https://github.com/keeyahnuh/keeyahnuh/blob/main/kiana-dumdumaya.png)
 
-Hello, my name is Kiana! I am recent graduate with a B.S. in Electrical Engineering from the University of California, Riverside. I have a passion for embedded systems and the general combination of hardware and software. 
+Hello, my name is Kiana! I am a recent graduate with a B.S. in Electrical Engineering from the University of California, Riverside. I have a passion for embedded systems and robotics. 
 
-Outside of classwork, I love to practice my engineering skills by competing in VexU Robotics Competitions and teaching Girls Who Code Club computer science classes to middle and high schoolers throughout the school year. Scroll down if you're interested in the many other things I do!
+Outside of classwork, I love to practice my engineering skills by competing in VexU Robotics Competitions and teaching programming and engineering classes to middle and high schoolers throughout the  year. Scroll down if you're interested in the many other things I do!
 
 [My Current Resume](https://drive.google.com/file/d/1Ej9E-64KFzSaNW9ODSqd1ML-60M-j16Q/view?usp=sharing)
 
